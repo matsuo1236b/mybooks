@@ -1,4 +1,3 @@
-test
 # Welcome to Joplin!
 
 Joplin is a free, open source note taking and to-do application, which helps you write and organise your notes, and synchronise them between your devices. The notes are searchable, can be copied, tagged and modified either from the application directly or from your own text editor. The notes are in [Markdown format](https://joplinapp.org/help/#markdown). Joplin is available as a **desktop**, **mobile** and **terminal** application.
